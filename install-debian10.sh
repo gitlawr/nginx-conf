@@ -83,7 +83,7 @@ if $isInstallFront; then
     rm -rf /www/wwwroot/fgorg/README.md
     rm -rf /www/wwwroot/fgorg/LICENSE
 else
-    rm -f /etc/nginx/sites-enabled/lawr.ink.conf
+    rm -f /etc/nginx/sites-enabled/fastgit.org.conf
 fi
 
 echo "[I] Clean tmp"
